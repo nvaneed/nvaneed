@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneeth</h1>
-<h3 align="center">A passionate Chip developer from India</h3>
+<h3 align="center">A passionate Robotics engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvaneed&label=Profile%20views&color=0e75b6&style=flat" alt="nvaneed" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Ros 2**
 
-- 🌱 I’m currently learning **Ros2**
+- 🌱 I’m currently learning robotics and embedded systems 
 
-- 👯 I’m looking to collaborate on **Embedded system and IoT**
+- 👯 I’m looking to collaborate on **IoT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nvaneed](https://github.com/nvaneed)
 
